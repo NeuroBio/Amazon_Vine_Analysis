@@ -1,4 +1,4 @@
-# Amazon Vine Analysis: exmaing bias in paid vine reviews and unsolicited, unpaid reviews
+# Amazon Vine Analysis: examining bias in paid vine reviews versus unsolicited, unpaid reviews
 
 ## Overview
 ## Results
